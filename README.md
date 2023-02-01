@@ -26,15 +26,6 @@ You can reach me here:<br><br>
 <a href="https://t.me/nicoco1173" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
-<details>
-  <summary>My stats in Github</summary>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=radical">
-  <img src="https://github-profile-trophy.vercel.app/?username=rikurunico&theme=radical">
-  </div>
-</details>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikurunico&theme=dracula"/>
   
   Visitors :
 
