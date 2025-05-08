@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mizuu (nicoco) 
+# 👋 Hello, I'm Mizuu
 
 **Data Enthusiast | Full-Stack Developer | Open Source Contributor**
 
