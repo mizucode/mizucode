@@ -1,13 +1,5 @@
-<h1 align="center">✨ようこそ！Hi I'm Mizuu✨</h1>
-
 <p align="center">
-  <img src="img/decade.gif"  alt="anime waving gif">
-</p>
-
-<p align="center">
- <h3 align="center">⚡ I'm Mizu — just a passing-through Programmer, Remember That! ⚡</h><br>
-<em align="center">Moon Hallo 🌙</em>
-
+  <img src="img/github-header-image.png"  alt="anime waving gif">
 </p>
 
 ---
