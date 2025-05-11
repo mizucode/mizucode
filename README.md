@@ -1,51 +1,41 @@
-# 👋 Hello, I'm Mizuu
+<h1 align="center">✨ようこそ！Hi I'm Mizuu✨</h1>
 
-**Data Enthusiast | Full-Stack Developer | Open Source Contributor**
+<p align="center">
+  <img src="img/decade.gif"  alt="anime waving gif">
+</p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/nizucode?label=Follow%20%40nizucode&style=social)](https://github.com/nizucode)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+<p align="center">
+ <h3 align="center">⚡ I'm Mizu — just a passing-through Programmer, Remember That! ⚡</h><br>
+<em align="center">Moon Hallo 🌙</em>
 
-## 🌟 GitHub Stats
+</p>
 
-<div align="center">
-  
-| Metric | Value |
-|--------|-------|
-| ⭐ Total Stars Earned | 31 |
-| 🎯 Total Commits (2025) | 7.2k |
-| 🔼 Total PRs | 23 |
-| 📌 Total Issues | 8 |
-| 🤝 Contributed to (last year) | 1 |
+---
 
-</div>
+# 💫 About Me:
 
-## 🛠️ Tech Stack
+- 🔭 Currently working on: Laravel-based Inventory System<br>- 🌱 Currently learning: Android Native & Game Logic<br>- 💬 Ask me about: Anything tech or anime!<br>- 📖 Writing: A fantasy novel with world-traveling heroes!<br>- 🧠 Fun fact: I get project ideas from anime plot twists 😁
 
-**Most Used Languages:**
+## 🌐 Socials:
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nizucode&layout=compact&theme=radical&hide_border=true&langs_count=6)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MizurigamingId) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Altermizu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Mizuverse)
 
-- **Jupyter Notebook** (44.05%)
-- **JavaScript** (27.41%)
-- **CSS** (11.55%)
-- **HTML** (10.29%)
-- **PHP** (4.91%)
-- **Blade** (1.79%)
+# 💻 Tech Stack:
 
-## 📊 Contribution Metrics
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
+# 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nizucode&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Mizucode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mizucode&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizucode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
 
-- **15,847** Total Contributions (Since Nov 4, 2020)
-- **756** Days Current Streak (Apr 13, 2023 - Present) 🔥
-- **756** Days Longest Streak 
+![](https://github-profile-trophy.vercel.app/?username=Mizucode&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
 
-## 📫 Let's Connect!
+---
 
-- [Portfolio Website](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+[![](https://visitcount.itsvg.in/api?id=Mizucode&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
